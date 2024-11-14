@@ -1,2 +1,3 @@
 [Link to Presentation Video](https://www.dropbox.com/s/1fquhxvyemgwn7u/MS%26E%20Group%20Project%20Presentation.mp4?dl=0)
 
+Group project of MS&E 448 (Big Financial Data and Algorithmic Trading) at Stanford. It is a project course emphasizing the connection between data, models, and reality. Vast amounts of high volume, high frequency observations of financial quotes, orders and transactions are now available, and poses a unique set of challenges. This type of data will be used as the empirical basis for modeling and testing various ideas within the umbrella of algorithmic trading and quantitative modeling related to the dynamics and micro-structure of financial markets.
